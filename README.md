@@ -1,5 +1,7 @@
 Hi, I'm Somashekar 👋
+
 Full-Stack Developer | AI Integration & Backend Systems
+
 I am a software developer focused on building scalable, production-ready applications with a focus on clean architecture and industry-standard coding practices. I specialize in developing full-stack environments that leverage AI to solve complex data problems.
 
 💻 Technical Stack
